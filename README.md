@@ -1,5 +1,7 @@
 # **0x00. AirBnB clone - The console**
 
+### **Readme file by `Obinna Dominic`**
+
 ## **Background Context**
 ### **Welcome to the AirBnB clone project!**
 Before starting, please read the AirBnB concept page.
