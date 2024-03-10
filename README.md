@@ -1,6 +1,6 @@
 # **0x00. AirBnB clone - The console**
 
-### **Readme file by `[Obinna Dominic](https://github.com/domgeorge "Title")`**
+### **Readme file by ` [Obinna Dominic](https://github.com/domgeorge "Title") `**
 
 ## **Background Context**
 ### **Welcome to the AirBnB clone project!**
